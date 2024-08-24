@@ -1,0 +1,25 @@
+clean,corrupted,target
+"1,2,3,4,","1,1,1,1,",5
+1 2 3 4 ,1 1 1 1 ,5
+"I,II,III,IV,","I,I,I,I,",V
+"10,20,30,40,","10,10,10,10,",50
+"3,6,9,12,","3,3,3,3,",15
+3 6 9 12 ,3 3 3 3 ,15
+I II III IV ,I I I I ,V
+"11,15,19,23,","11,11,11,11,",27
+"65,64,63,62,","65,65,65,65,",61
+"A,B,C,D,","A,A,A,A,",E
+"p,q,r,s,","p,p,p,p,",t
+"alpha,beta,","alpha,alpha,",gamma
+"Monday,Tuesday,Wednesday,","Monday,Monday,Monday,",Thursday
+"may,june,july,","may,may,may,",august
+"mercury,venus,earth,","mercury,mercury,mercury,",mars
+"5,4,3,2,","5,5,5,5,",1
+"1601,1701,1801,","1601,1601,1601,",1901
+"Saturday,Sunday,Monday,","Saturday,Saturday,Saturday,",Tuesday
+"1,11,111,1111,","1,1,1,1,",11111
+"2,22,222,2222,","2,2,2,2,",22222
+"I,II,III,IIII,IIIII,","I,I,I,I,I,",IIIIII
+"V,VV,VVV,","V,V,V,",VVVV
+"x,xx,xxx,","x,x,x,",xxxx
+"XX,XXXX,","XX,XX,",XXXXXX
